@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animals>
+    <animal>
+        <name>Marsel</name>
+        <age>7</age>
+        <breed>Sphynx</breed>
+        <weight>6</weight>
+        <owner>John Doe</owner>
+        <description>Cute and friendly</description>
+    </animal>
+    <animal>
+        <name>Luna</name>
+        <age>3</age>
+        <breed>Siamese</breed>
+        <weight>4.5</weight>
+        <owner>Alice Smith</owner>
+        <description>Playful and affectionate</description>
+    </animal>
+    <animal>
+        <name>Rex</name>
+        <age>5</age>
+        <breed>Maine Coon</breed>
+        <weight>8</weight>
+        <owner>Bob Johnson</owner>
+        <description>Laid-back and gentle</description>
+    </animal>
+    <animal>
+        <name>Bella</name>
+        <age>2</age>
+        <breed>Persian</breed>
+        <weight>5.5</weight>
+        <owner>Eva Brown</owner>
+        <description>Graceful and independent</description>
+    </animal>
+</animals>
