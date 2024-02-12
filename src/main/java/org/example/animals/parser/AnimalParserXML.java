@@ -1,6 +1,6 @@
-package org.example.parser;
+package org.example.animals.parser;
 
-import org.example.entity.Animal;
+import org.example.animals.entity.Animal;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;

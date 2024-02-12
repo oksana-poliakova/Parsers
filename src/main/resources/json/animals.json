@@ -1,36 +1,74 @@
-{
-  "animals": [
-    {
-      "name": "Marsel",
-      "age": 7,
-      "breed": "Sphynx",
-      "weight": 6,
-      "owner": "John Doe",
-      "description": "Cute and friendly"
-    },
-    {
-      "name": "Luna",
-      "age": 3,
-      "breed": "Siamese",
-      "weight": 4.5,
-      "owner": "Alice Smith",
-      "description": "Playful and affectionate"
-    },
-    {
-      "name": "Rex",
-      "age": 5,
-      "breed": "Maine Coon",
-      "weight": 8,
-      "owner": "Bob Johnson",
-      "description": "Laid-back and gentle"
-    },
-    {
-      "name": "Bella",
-      "age": 2,
-      "breed": "Persian",
-      "weight": 5.5,
-      "owner": "Eva Brown",
-      "description": "Graceful and independent"
-    }
-  ]
-}
+[
+  {
+    "name": "Simba",
+    "age": 4,
+    "breed": "Lion",
+    "weight": 150.0,
+    "owner": "Simba\u0027s Owner",
+    "description": "Regal and majestic"
+  },
+  {
+    "name": "Fluffy",
+    "age": 2,
+    "breed": "Persian",
+    "weight": 4.5,
+    "owner": "Jane Doe",
+    "description": "Adorable and playful"
+  },
+  {
+    "name": "Max",
+    "age": 4,
+    "breed": "Bengal",
+    "weight": 7.2,
+    "owner": "Michael Smith",
+    "description": "Energetic and curious"
+  },
+  {
+    "name": "Simba",
+    "age": 4,
+    "breed": "Lion",
+    "weight": 150.0,
+    "owner": "Simba\u0027s Owner",
+    "description": "Regal and majestic"
+  },
+  {
+    "name": "Fluffy",
+    "age": 2,
+    "breed": "Persian",
+    "weight": 4.5,
+    "owner": "Jane Doe",
+    "description": "Adorable and playful"
+  },
+  {
+    "name": "Max",
+    "age": 4,
+    "breed": "Bengal",
+    "weight": 7.2,
+    "owner": "Michael Smith",
+    "description": "Energetic and curious"
+  },
+  {
+    "name": "Simba",
+    "age": 4,
+    "breed": "Lion",
+    "weight": 150.0,
+    "owner": "Simba\u0027s Owner",
+    "description": "Regal and majestic"
+  },
+  {
+    "name": "Mirra",
+    "age": 2,
+    "breed": "Persian",
+    "weight": 4.5,
+    "owner": "Jane Doe",
+    "description": "Adorable and playful"
+  },
+  {
+    "name": "Lucky",
+    "age": 2,
+    "breed": "Persian",
+    "weight": 4.5,
+    "owner": "Jane Doe",
+    "description": "Adorable and playful"
+  }
+]
