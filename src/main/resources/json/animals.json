@@ -1,0 +1,36 @@
+{
+  "animals": [
+    {
+      "name": "Marsel",
+      "age": 7,
+      "breed": "Sphynx",
+      "weight": 6,
+      "owner": "John Doe",
+      "description": "Cute and friendly"
+    },
+    {
+      "name": "Luna",
+      "age": 3,
+      "breed": "Siamese",
+      "weight": 4.5,
+      "owner": "Alice Smith",
+      "description": "Playful and affectionate"
+    },
+    {
+      "name": "Rex",
+      "age": 5,
+      "breed": "Maine Coon",
+      "weight": 8,
+      "owner": "Bob Johnson",
+      "description": "Laid-back and gentle"
+    },
+    {
+      "name": "Bella",
+      "age": 2,
+      "breed": "Persian",
+      "weight": 5.5,
+      "owner": "Eva Brown",
+      "description": "Graceful and independent"
+    }
+  ]
+}
