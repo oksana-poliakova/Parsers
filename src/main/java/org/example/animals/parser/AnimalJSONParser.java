@@ -15,7 +15,7 @@ import java.util.List;
  * @author oksanapoliakova on 12.02.2024
  * @projectName Parsers
  */
-public class AnimalParserJSON {
+public class AnimalJSONParser {
     // Method for parsing animals from a JSON file
     public static List<Animal> parseAnimals(String filePath) {
         List<Animal> animals = new ArrayList<>();

@@ -4,7 +4,7 @@ import org.example.animals.entity.Animal;
 
 import java.util.List;
 
-import static org.example.animals.parser.AnimalParserJSON.parseAnimals;
+import static org.example.animals.parser.AnimalJSONParser.parseAnimals;
 
 /**
  * @author oksanapoliakova on 12.02.2024
